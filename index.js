@@ -11,3 +11,4 @@ const record = [
   
 ]
 
+record.find( function(s) { return s === "W" })
